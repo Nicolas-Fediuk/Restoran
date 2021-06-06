@@ -16,6 +16,8 @@ using namespace std;
 #include "menuCliente.h"
 #include "menuPedido.h"
 #include "archivoCliente.h"
+#include "actualizarDatosClientes.h"
+#include "menuActualizarDatoCliente.h"
 
 int main(){
     bool estado=false;
