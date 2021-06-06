@@ -68,6 +68,7 @@ void Cliente::mostrar(){
 
 bool registarCliente();
 bool consultaCliente();
+void actualizarCliente();
 
 void menuCliente(){
     system("cls");
@@ -98,9 +99,15 @@ void menuCliente(){
 
 
             break;
-      /*  case 2: actualizarCliente();
+       case 2: actualizarCliente();
+                 /*gotoxy(17,25);cout<<"EL DNI NO EXISTE...OPRIMA CUALQUIER LETRAR PARA VOLVER";*/
+
+
+                system("pause>null");
+                system("cls");
+
             break;
-        case 3: eliminarCliente();
+       /* case 3: eliminarCliente();
             break;*/
         case 4: if(consultaCliente()==false){
                 gotoxy(17,25);cout<<"EL DNI DEL CLIENTE NO EXISTE...OPRIMA CUALQUIER LETRAR PARA VOLVER";
