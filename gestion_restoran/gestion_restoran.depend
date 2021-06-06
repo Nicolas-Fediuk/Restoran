@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1622990882 source:c:\users\nicol\desktop\final_restoran\gestion_restoran\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dos.h>
+	"rlutil.h"
+	"TestDados.h"
+	"subMenu.h"
+	"menuCliente.h"
+	"menuPedido.h"
+	"archivoCliente.h"
+	"actualizarDatosClientes.h"
+	"menuActualizarDatoCliente.h"
+
+1603715401 c:\users\nicol\desktop\final_restoran\gestion_restoran\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622949260 c:\users\nicol\desktop\final_restoran\gestion_restoran\testdados.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rlutil.h"
+	<dos.h>
+
+1622949209 c:\users\nicol\desktop\final_restoran\gestion_restoran\submenu.h
+
+1622994816 c:\users\nicol\desktop\final_restoran\gestion_restoran\menucliente.h
+
+1622946104 c:\users\nicol\desktop\final_restoran\gestion_restoran\menupedido.h
+
+1622951010 c:\users\nicol\desktop\final_restoran\gestion_restoran\archivocliente.h
+
+1623003170 c:\users\nicol\desktop\final_restoran\gestion_restoran\actualizardatosclientes.h
+
+1623003170 c:\users\nicol\desktop\final_restoran\gestion_restoran\menuactualizardatocliente.h
+
