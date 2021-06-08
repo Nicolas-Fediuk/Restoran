@@ -18,6 +18,8 @@ using namespace std;
 #include "archivoCliente.h"
 #include "actualizarDatosClientes.h"
 #include "menuActualizarDatoCliente.h"
+#include "claseCarta.h"
+#include "archivoPlato.h"
 
 int main(){
     bool estado=false;
